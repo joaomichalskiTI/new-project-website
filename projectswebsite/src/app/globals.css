@@ -1,0 +1,21 @@
+
+*{
+  margin: 0;
+}
+
+.tudo {
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  color: white;
+  height: 15vh;
+}
+.icon {
+  font-size: 2em;
+  margin-right: 1%;
+}
